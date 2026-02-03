@@ -3,7 +3,7 @@ numpy
 matplotlib
 seaborn
 plotly
-streamlit
+streamlit>=1.35.0
 prophet
 holidays
 scikit-learn
@@ -12,3 +12,4 @@ statsmodels
 openpyxl
 python-dateutil
 scipy
+altair<5
