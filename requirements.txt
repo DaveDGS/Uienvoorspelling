@@ -4,7 +4,7 @@ matplotlib
 seaborn
 plotly
 streamlit
-prophet
+prophet==1.1.5
 holidays==0.24
 scikit-learn
 xgboost
